@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/functions": "^1.4.0",
     "@next/font": "13.1.2",
     "next": "13.1.2",
     "react": "18.2.0",
